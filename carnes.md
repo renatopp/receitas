@@ -1,4 +1,4 @@
-## Carne de panela
+## Carne de panela com vinho
 
 **Ingredientes**:
 
