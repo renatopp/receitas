@@ -37,6 +37,10 @@
 - Bater a clara em neves e misturar nos ingredientes molhados até ficar homonênio
 - Misturar os ingredientes molhados com os ingredientes secos até ficar homonênio
 
+**Notas:**
+
+- Eu diminui um pouco a quantidade de oleo para tentar deixar mais seco e ficou bom
+
 **Referências:**
 
 - https://thesaltymarshmallow.com/homemade-belgian-waffle-recipe/
