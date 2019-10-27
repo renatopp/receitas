@@ -1,3 +1,15 @@
+# Doces
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Chocolate com Bolacha](#chocolate-com-bolacha)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+---
+
 ## Chocolate com Bolacha
 
 **Ingredientes:**

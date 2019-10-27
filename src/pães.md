@@ -1,3 +1,16 @@
+# Pães
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Pão de Hamburger](#p%C3%A3o-de-hamburger)
+- [Pão Caseiro](#p%C3%A3o-caseiro)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+---
+
 ## Pão de Hamburger
 
 **Ingredientes:**

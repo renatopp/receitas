@@ -1,3 +1,16 @@
+# Saladas
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Salada de azeitonas](#salada-de-azeitonas)
+- [Salada Jerusalém](#salada-jerusal%C3%A9m)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+---
+
 ## Salada de azeitonas
 
 **Ingredientes:**

@@ -1,3 +1,16 @@
+# Cafés da Manhã
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Ovo Mexido Cremoso](#ovo-mexido-cremoso)
+- [Belgian Waffle](#belgian-waffle)
+- [Chocolate Quente](#chocolate-quente)
+- [Pão de Queijo](#p%C3%A3o-de-queijo)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Ovo Mexido Cremoso
 
 **Ingredientes:**

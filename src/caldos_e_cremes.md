@@ -1,3 +1,14 @@
+# Caldos e cremes
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Dublin Coddle](#dublin-coddle)
+- [Creme de Milho](#creme-de-milho)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Dublin Coddle
 
 **Ingredientes:**
