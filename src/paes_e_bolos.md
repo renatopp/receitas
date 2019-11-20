@@ -6,6 +6,7 @@
 
 - [Pão de Hamburger](#p%C3%A3o-de-hamburger)
 - [Pão Caseiro](#p%C3%A3o-caseiro)
+- [Bolo Quatre-Quarts](#bolo-quatre-quarts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
