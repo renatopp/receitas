@@ -6,5 +6,5 @@
 - [Doces](./src/doces.md)
 - [Massas](./src/massas.md)
 - [Molhos](./src/molhos.md)
-- [Pães](./src/paes.md)
+- [Pães e Bolos](./src/paes_e_bolos.md)
 - [Saladas](./src/saladas.md)
