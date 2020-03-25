@@ -89,3 +89,36 @@
 **Referências:**
 
 - https://www.youtube.com/watch?v=xvpstlq5RbI
+
+
+## Arroz Japones
+
+**Ingredientes:**
+
+- 1 xicara de arroz japones
+- 1 xicara de agua
+
+**Preparo:**
+
+- Lavar o arroz até que a agua saia mais transparente (3-10 lavagens)
+- Deixar o arroz descansando por 15 minutos
+- Juntar a agua e arroz e ferver em fogo alto com a panela fechada
+- Quando ferver (sair vapor da panela), diminuir o fogo e deixar 5 minutos, ainda tampado
+- Desligar o fogo, manter tampado por 15 minutos descansando
+
+
+## Empanado na cerveja
+
+**Ingredientes:**
+
+- 200g de farinha de trigo
+- 100g de Maisena
+- 3g de fermento biológico seco
+- 300 a 400ml de cerveja tipo pilsen
+- sal a gosto
+
+**Preparo:**
+
+- Misture todos os ingredientes secos em uma tigela redonda.
+- Em outro recipiente, coloque o fermento e a cerveja, e deixe agir por 5 minutos.
+- Junte todos os ingredientes em um recipiente, misture bem e deixe fermentar por 1h em temperatura ambiente (opcional)
