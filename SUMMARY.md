@@ -10,7 +10,7 @@
   * [Molhos](src/molhos.md)
   * [Saladas](src/saladas.md)
 
-## Pães
+## Pães e Bolos <a id="paes"></a>
 
 * [Bolo Quatre-Quarts](paes/bolo-quatre-quarts.md)
 * [Pão Caseiro](paes/pao-caseiro.md)
