@@ -29,6 +29,7 @@
 
 ## Cafés da manhã
 
+* [Waffle de banana e aveia](cafes-da-manha/waffle-de-banana-e-aveia.md)
 * [Ovo mexido cremoso](cafes-da-manha/ovo-mexido-cremoso.md)
 * [Belgian waffle](cafes-da-manha/belgian-waffle.md)
 * [Chocolate quente](cafes-da-manha/chocolate-quente.md)
