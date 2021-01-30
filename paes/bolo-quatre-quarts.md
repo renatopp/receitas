@@ -1,4 +1,4 @@
-# Bolo Quatre-Quarts
+# Bolo quatre-quarts
 
 **Ingredientes:**
 
