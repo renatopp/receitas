@@ -15,6 +15,7 @@
 
 ## Massas
 
+* [Pizza caseira](massas/pizza-caseira.md)
 * [Empanado na cerveja](massas/empanado-na-cerveja.md)
 * [Polenta mole](massas/polenta-mole.md)
 * [Nhoque](massas/nhoque.md)
