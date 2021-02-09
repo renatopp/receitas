@@ -2,26 +2,25 @@
 
 **Ingredientes:**
 
-* 2 copos de polvilho doce
-* 2 copos de polvilho azedo
-* 1 copo de leite
-* 1 copo de óleo
-* 1 copo de água
-* 1 colher \(rasa\) de sopa de sal
-* 2 copos de queijo
-* 5 ovos
+* 150g óleo
+* 200g água
+* 200g leite gelado 
+* 15g sal 
+* 650g polvilho doce
+* 253g ovos \(5\) 
+* 300g queijo 
 
 **Preparo:**
 
 * Misturar os polvilhos e o sal
 * Ferver o leite, água e óleo
-* Misturar os liquidos aos secos \(logo que ferveu para escaldar o polvilho\) até ficar uma massa homogênia
-* Esperar esfriar e misturar os ovos e queijo até ficar homogênio \(a massa fica bem mole\)
+* Misturar os líquidos aos secos \(logo que ferveu para escaldar o polvilho\) até ficar uma massa homogênia
+* Esperar esfriar e misturar os ovos e queijo até ficar homogêneo \(a massa fica bem mole\)
 * Modelar os pães de queijo
 
 **Notas:**
 
-* 50% polvilho doce e 50% povilho azedo deixa o pão de queijo fofinho por dentro e crocante por fora, sem estar oco
+* Tentar diminuir para 3 ovos ou 2.
 
 **Referências:**
 
