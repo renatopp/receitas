@@ -7,7 +7,7 @@
 * 200g leite gelado 
 * 15g sal 
 * 650g polvilho doce
-* 253g ovos \(5\) 
+* 3 ovos
 * 300g queijo 
 
 **Preparo:**

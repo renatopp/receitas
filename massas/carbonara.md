@@ -19,7 +19,7 @@
 
 **Notas:**
 
-* Adicionar cebolina ou cheiro verde no final da um toque bom e diferente à receita original
+* Adicionar cebolinha ou cheiro verde no final da um toque bom e diferente à receita original
 * Adicionar mais água para um molho mais cremoso e saboroso
 
 **Referências:**
