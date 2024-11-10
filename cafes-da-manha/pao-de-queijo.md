@@ -8,7 +8,8 @@
 * 15g sal 
 * 650g polvilho doce
 * 3 ovos
-* 300g queijo 
+* 300g queijo
+* 1 colher de sopa de fermento (EXPERIMENTAR eu usei 1/2 na ultima, e ficou pouco) 
 
 **Preparo:**
 
@@ -17,10 +18,6 @@
 * Misturar os líquidos aos secos \(logo que ferveu para escaldar o polvilho\) até ficar uma massa homogênia
 * Esperar esfriar e misturar os ovos e queijo até ficar homogêneo \(a massa fica bem mole\)
 * Modelar os pães de queijo
-
-**Notas:**
-
-* Tentar diminuir para 3 ovos ou 2.
 
 **Referências:**
 
